@@ -1,5 +1,5 @@
 # TUMBLEBEAR
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/8chS_NtflcM" frameborder="0" allowfullscreen></iframe>
+![logo](/img/1.png)
 > 2015 Summer HCI Project with Arduino, Bluetooth, and Processing
 > Drinking Water Project with breeding Polar Bear
 
@@ -8,6 +8,7 @@
 
 ## How To
 ![photo](/img/2.png)
+[Youtube Link](https://youtu.be/8chS_NtflcM)
 - Attach the bear to the tumbler.
 - And drink water by touching him.
 - As we pushes the sensor on his body, the bear can drink water as much as I drink.
